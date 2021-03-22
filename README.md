@@ -126,7 +126,7 @@ The main focus of this project is to lessen human effort and encourage efficient
 
 ## How to install and run my project on your local system
 
-- Clone the repository with git clone https://github.com/JHS-Sujel/Online-Library-Management-System-P-300
+- Clone the repository with git clone https://github.com/JHS-Sujel/P-300-181-115-034-181-115-013-
 - cd Online Library Management System (P-300)
 - Run composer install or update 
 - Add your database config in the .env file
@@ -136,7 +136,7 @@ The main focus of this project is to lessen human effort and encourage efficient
 - Run php artisan key:generate
 - Run php artisan config:clear
 - Run php artisan serve (if the server opens up, http://127.0.0.1:8000, then we are good to go)
-- Login info: email- jhs pass- 12345678
+- Login info: user name - JHS Sujel pass- 12345678
 
 ---
 
