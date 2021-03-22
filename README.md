@@ -97,7 +97,8 @@ Online library management system divided in two modules –
 
 ## Initial interface 
 
-![Screenshot (347)](https://user-images.githubusercontent.com/73945266/111470640-4636da00-8752-11eb-9138-1f75e06ddf07.png)
+![Screenshot (356)](https://user-images.githubusercontent.com/73945266/112022260-54bf3000-8b5c-11eb-8c87-e9a195e2a1ed.png)
+
 
 ---
 
